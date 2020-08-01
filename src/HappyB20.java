@@ -8,6 +8,8 @@ public class HappyB20 {
         
         
         // I fetch and merge from github
+        
+        // how about using fetch + merge from github
 
     }
 }
